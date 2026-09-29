@@ -1,0 +1,6 @@
+Рекомендуемая история Git:
+feat: initialize Maven Selenium TestNG project
+feat: add positive and negative login tests
+feat: add cart and checkout tests
+feat: add inventory sorting test
+refactor: extract page objects and explicit waits
